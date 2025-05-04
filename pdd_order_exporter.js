@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name 导出拼多多订单
 // @namespace win.somereason.web.utils
-// @version 2023.2.7
+// @version 2025.5.4
 // @description 这个脚本帮助你导出拼多多的订单列表页中的订单。基于GPT修改。
 // @author Luoshen Seeker
 // @match *://mobile.pinduoduo.com/orders.html*
