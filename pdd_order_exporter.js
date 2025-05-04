@@ -5,10 +5,10 @@
 // @description 这个脚本帮助你导出拼多多的订单列表页中的订单。基于GPT修改。
 // @author Luoshen Seeker
 // @match *://mobile.pinduoduo.com/orders.html*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon  https://raw.githubusercontent.com/luoshenseeker/PDD_order_exporter/icon.png
 // @grant none
-// @downloadURL https://update.greasyfork.org/scripts/459561/%E5%AF%BC%E5%87%BA%E4%BA%AC%E4%B8%9C%E8%AE%A2%E5%8D%952023.user.js
-// @updateURL https://update.greasyfork.org/scripts/459561/%E5%AF%BC%E5%87%BA%E4%BA%AC%E4%B8%9C%E8%AE%A2%E5%8D%952023.meta.js
+// @downloadURL 
+// @updateURL 
 // ==/UserScript==
 
 (function () {
