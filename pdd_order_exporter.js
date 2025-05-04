@@ -7,6 +7,7 @@
 // @match *://mobile.pinduoduo.com/orders.html*
 // @icon  https://raw.githubusercontent.com/luoshenseeker/PDD_order_exporter/icon.png
 // @grant none
+// @license MIT
 // @downloadURL 
 // @updateURL 
 // ==/UserScript==
