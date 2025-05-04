@@ -8,8 +8,8 @@
 // @icon  https://raw.githubusercontent.com/luoshenseeker/PDD_order_exporter/icon.png
 // @grant none
 // @license MIT
-// @downloadURL 
-// @updateURL 
+// @downloadURL https://greasyfork.org/zh-CN/scripts/534938-%E5%AF%BC%E5%87%BA%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%AE%A2%E5%8D%95
+// @updateURL https://greasyfork.org/zh-CN/scripts/534938-%E5%AF%BC%E5%87%BA%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%AE%A2%E5%8D%95
 // ==/UserScript==
 
 (function () {
